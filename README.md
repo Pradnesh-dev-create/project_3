@@ -1,4 +1,2 @@
 # project_3
-practice for 
-author pradnesh pagi
-hello
+hello this pradnesh here
